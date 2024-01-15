@@ -1,0 +1,16 @@
+﻿ID;Nome;Cognome;Età;Altezza;Peso;Sport
+1;Alessio;Azzalini;22;1,88;55;1
+2;Biagio;Bergotti;24;1,85;56;1
+3;Carlo;Cucini;;1,84;68;1
+4;Dario;Denisi;31;1,75;75;2
+5;Edoardo;Esterni;25;1,77;64;2
+6;Federico;Francini;30;;77;3
+7;Giorgio;Guglielmi;27;1,69;83;3
+8;Iginio;Inniver;19;1,71;81;3
+9;Luca;Lombi;18;1,75;73;4
+10;Matteo;Misti;19;1,81;54;4
+11;Nicola;Netti;23;1,9;-81;4
+12;Osvaldo;Ostuni;22;1,55;90;4
+13;Paolo;Pescheri;28;2,01;82;5
+14;Raffaele;Rustici;34;2,1;78;5
+15;Stefano;Soncini;39;1,95;77;
